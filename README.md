@@ -1,4 +1,4 @@
-# Project33 - Media Search Application
+# Project - Media Search Application
 
 A modern, responsive media search application built with React and Vite, allowing users to search and browse photos and videos from popular APIs.
 
@@ -34,7 +34,7 @@ A modern, responsive media search application built with React and Vite, allowin
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   cd project33
+   cd project
    ```
 
 2. Install dependencies:
